@@ -33,7 +33,7 @@ Nxt Watch is a YouTube-like video streaming platform built with React. It allows
 
 ## Demo
 
-[Live Demo](#) (Add your live link here)
+[Live Demo](#) (https://waghnxtwatch.ccbp.tech/)
 
 ---
 
